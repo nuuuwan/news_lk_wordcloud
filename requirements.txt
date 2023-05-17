@@ -1,0 +1,4 @@
+wordcloud
+utils-nuuuwan
+matplotlib
+nltk
