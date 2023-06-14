@@ -7,45 +7,45 @@
 
 ## News Quiz
 
-1. Who resigned after being reprimanded by President Ranil Wickremesinghe for not following Cabinet policy by refraining from seizing public lands?
+1. What was the motive force for the Sri Lankan war?
 
-Ans: Professor Anura Manatunga, Director General of Archaeology Dept
+Answer: The motive force for the war was the hellish union between political opportunism and religio-racial extremism.
 
-2. What did Former High Court Judge Kusala Sarojini Weerawardena recommend in her probe into incidents involving State Minister Lohan Ratwatte threatening Tamil prisoners at gunpoint in Anuradhapura Jail?
+2. What was the Jaffna Public Library?
 
-Ans: To file charges, including attempted murder against him 
+Answer: The Jaffna Public Library was a library in the city of Jaffna, Sri Lanka that was burnt down in an act of arson on June 1, 1981.
 
-3. What did Canadian Prime Minister Justin Trudeau encourage everyone to do in relation to Sri Lanka?
+3. Who is “Kalaignar” Karunanidhi?
 
-Ans: Learn more about the impact of the armed conflict in Sri Lanka and express solidarity to all those who suffered or lost loved ones 
+Answer: “Kalaignar” Karunanidhi was a Tamil politician in India who served as the Chief Minister of Tamil Nadu for five different terms.
 
-4. What does the Sri Lankan Hill Country Tamil community aspire to?
+4. Why is the trend of Buddhist monks claiming lands in the North and East concerning?
 
-Ans: A non-territorial Community Council
+Answer: The trend of Buddhist monks claiming lands in the North and East is concerning because it is seen as an attempt to change the demographic composition of those areas and undermine Tamil claims to those lands.
 
-5. Who has been arrested and remanded for her comic performance in Sri Lanka?
+5. Who is Gajendrakumar Ponnambalam?
 
-Ans: Stand-up comedian Natasha Edirisooriya 
+Answer: Gajendrakumar Ponnambalam is a Tamil politician in Sri Lanka and a Member of Parliament for the Jaffna District.
 
-6. Who tendered their resignation from the post of Director General of Archaeology Dept?
+6. What did the Anti-corruption law propose?
 
-Ans: Professor Anura Manatunga 
+Answer: The new Anti-corruption law proposed was said to be the best in South Asia, but was criticized as being a "riddle wrapped in a mystery inside an enigma."
 
-7. What is the name of the proposed draft bill by President Ranil Wickremesinghe?
+7. Who is “Em” Sivasithamparam?
 
-Ans: Elections (Special Provisions) Act 
+Answer: “Em” Sivasithamparam, also known as the “Uduppiddy Singham,” was a Tamil politician in Sri Lanka who was a champion of Tamil rights.
 
-8. Who faced a stalemate with Tamil parliamentarians representing the northern and eastern provinces during talks?
+8. Why was the Director General of Archaeology Dept asked to resign?
 
-Ans: President Ranil Wickremesinghe 
+Answer: The Director General of Archaeology Dept, Prof Anura Manatunga, was asked to resign after he was reprimanded by the president for not following Cabinet policy by refraining from seizing lands belonging to the public.
 
-9. What was the heinous act committed deliberately by a group of policemen that happened on June 1st, 1981?
+9. What did the proposal to establish a Broadcasting Regulatory Commission spark concerns about?
 
-Ans: The burning of the Jaffna Public Library 
+Answer: The proposal to establish a Broadcasting Regulatory Commission sparked concerns about government attempts to control the public mind in the economically hard times ahead.
 
-10. Who broke up with TELO and PLOTE challenging ITAK?
+10. What did the Centre for Policy Alternatives express deep concern about?
 
-Ans: Tamil National Alliance
+Answer: The Centre for Policy Alternatives expressed deep concern over the recent arrest of comedian Natasha Edirisooriya under the ICCPR act, which they saw as a move to stifle freedom of speech in the guise of protecting religious harmony.
 
 
 
