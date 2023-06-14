@@ -1,3 +1,4 @@
+import os
 from utils import File
 from workflows.build_quiz import build_quiz
 
@@ -28,3 +29,6 @@ if __name__ == '__main__':
     build_wordcloud()
     build_quiz()
     main()
+    os.system('git add .')
+    os.system('git commit -m "updated readme"')
+    os.system('git push origin main')
