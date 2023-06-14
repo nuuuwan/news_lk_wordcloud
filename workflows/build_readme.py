@@ -11,7 +11,7 @@ def get_time_str():
 
 
 def main():
-    quiz_content = File('media/quiz/quiz.latest.txt').read()
+    quiz_content = File('media/quiz/quiz.latest.md').read()
     time_str = get_time_str()
     content = f'''
 # Sri Lankan News

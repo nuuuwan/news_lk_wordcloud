@@ -1,12 +1,3 @@
-
-# Sri Lankan News
-
-*Various Insights and Visualizations as of June 14, 2023 - 11:00AM*
-
-![wordcloud](media/wordcloud/wordcloud.latest.png)
-
-## News Quiz
-
 1. What is the stance of the Sri Lankan government towards hate speech among religious leaders and activists? 
 
 Answer: The government is being questioned for giving impunity to Buddhist clergy and activists who engage in hate speech against other religions. Political figures, such as TPA leader Mano Ganeshan, argue that the government should apply the same laws that have been used to arrest individuals for hate speech, including comedians and pastors, to religious leaders who spout similar rhetoric.
@@ -46,7 +37,3 @@ Answer: Jayantha Dhanapala was a Sri Lankan diplomat, advocate of causes, and me
 10. What recent move by the Sri Lankan government is being seen as a ploy for the government to control the public mind?
 
 Answer: The proposal to establish a Broadcasting Regulatory Commission is being viewed as yet another ploy for the Sri Lankan government to control the 'public mind' in economically hard times ahead.
-
-
-
-    

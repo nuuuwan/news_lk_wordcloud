@@ -51,9 +51,9 @@ def get_content():
 def build_quiz():
     content = get_content()
     time_id = get_time_id()
-    file_path = os.path.join('media', 'quiz', f'quiz.{time_id}.txt')
+    file_path = os.path.join('media', 'quiz', f'quiz.{time_id}.md')
     File(file_path).write(content)
-    file_path_latest = os.path.join('media', 'quiz', 'quiz.latest.txt')
+    file_path_latest = os.path.join('media', 'quiz', 'quiz.latest.md')
     shutil.copyfile(file_path, file_path_latest)
 
 
