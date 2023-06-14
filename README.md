@@ -1,41 +1,41 @@
 
 # Sri Lankan News
 
-*Various Insights and Visualizations as of June 14, 2023 - 11:06AM*
+*Various Insights and Visualizations as of June 14, 2023 - 11:07AM*
 
 ![wordcloud](media/wordcloud/wordcloud.latest.png)
 
 ## News Quiz
 
-1. What was the outcome of the Karnataka state elections in India in recent news?
-- India’s Congress Party wins 137 out of 224 seats in South Indian State of Karnataka Elections while Ruling Bharatiya Janata Party gets only 63 seats. 
+1. Who is the new Governor of Sabaragamuwa province?
+- Navin Dissanayake.
 
-2. What did Canadian Prime Minister Justin Trudeau encourage people to do in relation to Sri Lanka?
-- Canadian Prime Minister Justin Trudeau encouraged everyone to learn more about the impact of the armed conflict in Sri Lanka and express solidarity to all those who suffered or lost loved ones.
+2. What is the forecasted quarter for Sri Lanka's positive economic growth?
+- The fourth quarter of 2023.
 
-3. What did Sri Lanka's President Ranil Wickremesinghe say in a special statement to the nation?
-- "We will not allow anyone to drag our motherland back to where we were a year ago. Today, some individuals seem to have forgotten the hardships endured by Sri Lankans during that time.”
+3. What is the proposal of President Wickremesinghe with regards to elections in Sri Lanka?
+- To draft a new Bill for Elections (Special Provisions) Act that will amend key election-related Acts and Ordinances.
 
-4. What did Former President Mahinda Rajapaksa deny in recent news?
-- Former President Mahinda Rajapaksa denies having links with Pastor Jerome Fernando or Zimbabwe’s Uebert Angel; says he met both only for a prayer meeting at their request when serving as PM and Religious Affairs Minister.
+4. What is the concern of the SLPP with regards to the privatization of SLT?
+- The party is not happy about it, but is open to investments.
 
-5. What did the Centre for Policy Alternatives express concern over in a recent news article?
-- The Centre for Policy Alternatives expressed deep concern over the recent arrest of comedian Natasha Edirisooriya under ICCPR act; stating that it is the latest move to stifle freedom of speech in the guise of protecting religious harmony.
+5. What is the aim of the proposed Broadcasting Regulatory Act in Sri Lanka?
+- To regulate the broadcasting industry, but not to suppress the media.
 
-6. Who was arrested in Colombo and released on bail after being granted a surety of Rs. 500,000?
-- Jaffna District MP Gajendrakumar Ponnambalam was arrested in Colombo by Maruthankerni and Jeyapuram Police and released after being granted Rs. 500,000 surety bail by Kilinochchi Magistrates Court.
+6. Which district has been issued landslide warnings by the NBRO recently?
+- Colombo, Ratnapura, and Kegalle districts.
 
-7. What are the aspirations of the historically marginalized "Malaiyaha" (Hill Country) Tamils in Sri Lanka?
-- The "Malaiyaha" Tamils aspire to a non-territorial community council where they can seek greater recognition, political rights, and improved living and working conditions.
+7. What did Sri Lanka's Health Minister say about medicine prices?
+- They will be reviewed every three months.
 
-8. Who announced their decision to resign from all posts in the SJB and rejoin the United National Party (UNP)?
-- Samagi Jana Balawegaya Vice President and former Anuradhapura MP P. Harrison announced his decision to resign from all posts in the SJB and rejoin the United National Party while extending his unconditional support to President Ranil Wickremesinghe.
+8. What new Guinness World Record has been set by army doctors in Sri Lanka?
+- Removing the world's largest kidney stone.
 
-9. According to Mano Ganesan, what does he question regarding the treatment of some religious figures?
-- Mano Ganesan questions the impunity given to Buddhist clergy and activists who engage in hate speech against other faiths. He tweeted that if Pastor Jerome and Natasha Edirisooriya are breaking the law with their speech, then the same law should be applied to monks who have sprouted hate speech against fellow religions.
+9. Who is V. Anandasangaree and why is he important?
+- He is a Tamil leader who refused to submit to Tiger tyranny.
 
-10. Who was Chandrika Kumaratunga talking about, and what did she ask?
-- Chandrika Kumaratunga asked why no action has been taken so far against Galagoda Aththe Gnanasara Thero for insulting other religions; stating that his words were more vicious than Comedian Natasha Edirisooriya.
+10. Why is Europe considering giving a €1 billion loan to Tunisia?
+- To help with the country's economic development, state finances, and migration crisis.
 
 
 
