@@ -46,7 +46,7 @@ def main():
     plt.savefig(image_path)
 
     image_path_latest = os.path.join(
-        'media', 'wordcloud', 'wordcloud.latest.txt'
+        'media', 'wordcloud', 'wordcloud.latest.png'
     )
     shutil.copyfile(image_path, image_path_latest)
 
