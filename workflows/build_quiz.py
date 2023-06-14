@@ -12,6 +12,15 @@ F_FIG = 100
 FIG_WIDTH, FIG_HEIGHT = WIDTH // F_FIG, HEIGHT // F_FIG
 MAX_ARTICLES = 80
 
+CMD_MESSAGE = dict(
+    role="system",
+    content='''
+You have been given several news article titles by the user.
+To test the users knowledge about the most important articles,
+PRINT 10 questions with short, specific answers.
+''',
+)
+
 log = Log('build_wordcloud')
 
 
@@ -27,15 +36,8 @@ def get_content():
     for article in latest_english_articles:
         message = dict(role="user", content=article['original_title'])
         messages.append(message)
-    cmd_message = dict(
-        role="system",
-        content='''
-You have been given several news article headlines by the user.
-To test the users knowledge about the most important articles,
-PRINT 10 questions with short, specific answers.
-    ''',
-    )
-    messages.append(cmd_message)
+
+    messages.append(CMD_MESSAGE)
 
     openai.api_key = os.environ['OPENAI_API_KEY']
     response = openai.ChatCompletion.create(
@@ -46,7 +48,7 @@ PRINT 10 questions with short, specific answers.
     return reply
 
 
-def main():
+def build_quiz():
     content = get_content()
     time_id = get_time_id()
     file_path = os.path.join('media', 'quiz', f'quiz.{time_id}.txt')
@@ -56,4 +58,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    build_quiz()

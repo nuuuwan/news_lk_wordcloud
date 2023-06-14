@@ -18,7 +18,7 @@ DELTA_TIME_WINDOW = SECONDS_IN.DAY * 1
 log = Log('build_wordcloud')
 
 
-def main():
+def build_wordcloud():
     english_articles = NewsArticleLibrary().summary_en
     time_cutfoff = Time.now().ut - DELTA_TIME_WINDOW
     latest_english_articles = [
@@ -52,4 +52,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    build_wordcloud()

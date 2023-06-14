@@ -1,27 +1,31 @@
 
 # Sri Lankan News
+
 *Various Insights and Visualizations*
 
-## Wordcloud
 ![wordcloud](media/wordcloud/wordcloud.latest.png)
 
 ## News Quiz
-1. What did President Ranil Wickremesinghe say in a special statement to the nation?
-Answer: “We will not allow anyone to drag our motherland back to where we were a year ago.”
-2. What is the concern expressed by the Centre for Policy Alternatives?
-Answer: The concern expressed is over the recent arrest of comedian Natasha Edirisooriya under the ICCPR act.
-3. Who has been granted bail after being arrested by the Maruthankerni and Jeyapuram police?
-Answer: Jaffna District MP Gajendrakumar Ponnambalam.
-4. What is the proposed new bill titled by President Ranil Wickremesinghe?
-Answer: The proposed new bill is titled Elections (Special Provisions) Act.
-5. What did Former President Chandrika Kumaratunga ask in regards to Galagoda Aththe Gnanasara Thero?
-Answer: Why no action has been taken against him for insulting other religions.
-6. Who resigned after being reprimanded by President Ranil Wickremesinghe?
-Answer: Director General of Archaeology Dept, Prof Anura Manatunga.
-7. What is CPA's deep concern?
-Answer: CPA's deep concern is over the recent arrest of comedian Natasha Edirisooriya under the ICCPR act.
-8. Who recommended charges to be filed against State Minister Lohan Ratwatte?
-Answer:
+
+1. What did the US State Department do in relation to North Western Province Governor Wasantha Karannagoda?
+- The US State Department designated him due to his alleged involvement in a gross violation of human rights.
+
+2. Who appointed an external committee to investigate reports about alleged sexual harassment faced by a former ITN news anchor?
+- Independent Television Network Chairman Sudarshana Gunawardana.
+
+3. Who won the Karnataka state elections in India in a landslide victory?
+- The Congress Party won with 137 out of 224 seats, while the ruling Bharatiya Janata Party got only 63 seats.
+
+4. What did the Sri Lankan Supreme Court rule in relation to a Private Members Bill on homosexuality?
+- The court ruled that it is "not inconsistent with the Constitution," clearing the way for a parliamentary debate and vote.
+
+5. Why did Samagi Jana Balawegaya Vice President and former Anuradhapura MP P. Harrison resign from all posts in the SJB and rejoin the United National Party?
+- He gave his unconditional support to President Ranil Wickremesinghe.
+
+6. What did the Centre for Policy Alternatives express in relation to the recent arrest of comedian Natasha Edirisooriya?
+- Deep concern over the move to stifle freedom of speech in the guise of protecting religious harmony.
+
+7. Who has been recommended by a former High Court Judge to face charges, including attempted
 
 
 
