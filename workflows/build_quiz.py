@@ -16,8 +16,9 @@ CMD_MESSAGE = dict(
     role="system",
     content='''
 You have been given several news article titles by the user.
+
 To test the users knowledge about the most important articles,
-PRINT 10 questions followed by their answers.
+PRINT 10 questions and their answers.
 ''',
 )
 

@@ -1,7 +1,7 @@
 
 # Sri Lankan News
 
-*Various Insights and Visualizations*
+*Various Insights and Visualizations as of June 14, 2023 - 10:57AM*
 
 ![wordcloud](media/wordcloud/wordcloud.latest.png)
 
