@@ -1,7 +1,8 @@
 import os
+import shutil
 
 import openai
-from utils import Log
+from utils import File, Log, get_time_id
 
 from news.core.NewsArticleLibrary import NewsArticleLibrary
 
@@ -9,13 +10,12 @@ WIDTH = 1_600
 HEIGHT = int(WIDTH * 9 / 16)
 F_FIG = 100
 FIG_WIDTH, FIG_HEIGHT = WIDTH // F_FIG, HEIGHT // F_FIG
-
-MAX_ARTICLES = 100
+MAX_ARTICLES = 80
 
 log = Log('build_wordcloud')
 
 
-def main():
+def get_content():
     english_articles = NewsArticleLibrary().summary_en
     len(english_articles)
     i_start = 0
@@ -43,7 +43,16 @@ PRINT 10 questions with short, specific answers.
         messages=messages,
     )
     reply = response['choices'][0]['message']['content']
-    print(reply)
+    return reply
+
+
+def main():
+    content = get_content()
+    time_id = get_time_id()
+    file_path = os.path.join('media', 'quiz', f'quiz.{time_id}.txt')
+    File(file_path).write(content)
+    file_path_latest = os.path.join('media', 'quiz', 'quiz.latest.txt')
+    shutil.copyfile(file_path, file_path_latest)
 
 
 if __name__ == '__main__':

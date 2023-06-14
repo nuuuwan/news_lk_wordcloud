@@ -1,7 +1,8 @@
 import os
+import shutil
 
 import matplotlib.pyplot as plt
-from utils import SECONDS_IN, Log, Time
+from utils import SECONDS_IN, Log, Time, get_time_id
 from wordcloud import WordCloud
 
 from news.core.NewsArticleLibrary import NewsArticleLibrary
@@ -33,15 +34,21 @@ def main():
         width=WIDTH, height=HEIGHT, stopwords=STOPWORDS
     ).generate(text)
 
-    image_path = 'wordcloud.png'
-    n_latest_articles = len(latest_english_articles)
+    time_id = get_time_id()
+    image_path = os.path.join(
+        'media', 'wordcloud', f'wordcloud.{time_id}.png'
+    )
+    len(latest_english_articles)
 
     plt.figure(figsize=(FIG_WIDTH, FIG_HEIGHT))
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis("off")
     plt.savefig(image_path)
-    log.info(f'Saved wordcloud for {n_latest_articles} to {image_path}')
-    os.startfile(image_path)
+
+    image_path_latest = os.path.join(
+        'media', 'wordcloud', 'wordcloud.latest.txt'
+    )
+    shutil.copyfile(image_path, image_path_latest)
 
 
 if __name__ == '__main__':
