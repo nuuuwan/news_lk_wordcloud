@@ -1,41 +1,51 @@
 
 # Sri Lankan News
 
-*Various Insights and Visualizations as of June 14, 2023 - 11:07AM*
+*Various Insights and Visualizations as of June 14, 2023 - 01:17PM*
 
 ![wordcloud](media/wordcloud/wordcloud.latest.png)
 
 ## News Quiz
 
-1. Who is the new Governor of Sabaragamuwa province?
-- Navin Dissanayake.
+1. What is the subject of the article "Sri Lanka should accelerate green financing and become green economy hub in South Asia"?
 
-2. What is the forecasted quarter for Sri Lanka's positive economic growth?
-- The fourth quarter of 2023.
+The article discusses Sri Lanka's potential to become a hub for green economy and sustainable financing in South Asia.
 
-3. What is the proposal of President Wickremesinghe with regards to elections in Sri Lanka?
-- To draft a new Bill for Elections (Special Provisions) Act that will amend key election-related Acts and Ordinances.
+2. What is the headline of the article that talks about a protest in Colombo?
 
-4. What is the concern of the SLPP with regards to the privatization of SLT?
-- The party is not happy about it, but is open to investments.
+The headline is not provided in the prompt given by the user.
 
-5. What is the aim of the proposed Broadcasting Regulatory Act in Sri Lanka?
-- To regulate the broadcasting industry, but not to suppress the media.
+3. Who is appointed as the new Governor of the Sabaragamuwa Province?
 
-6. Which district has been issued landslide warnings by the NBRO recently?
-- Colombo, Ratnapura, and Kegalle districts.
+Navin Dissanayake is appointed as the new Governor of the Sabaragamuwa Province.
 
-7. What did Sri Lanka's Health Minister say about medicine prices?
-- They will be reviewed every three months.
+4. What is the subject of the article "Double triumph as MAS Kreeda takes home two Gold Awards at RoSPA 2023"?
 
-8. What new Guinness World Record has been set by army doctors in Sri Lanka?
-- Removing the world's largest kidney stone.
+The article talks about how MAS Kreeda has won two gold awards at RoSPA 2023.
 
-9. Who is V. Anandasangaree and why is he important?
-- He is a Tamil leader who refused to submit to Tiger tyranny.
+5. What is the headline of the article that talks about Sri Lanka considering rerouting a major shipping lane?
 
-10. Why is Europe considering giving a €1 billion loan to Tunisia?
-- To help with the country's economic development, state finances, and migration crisis.
+The headline is not provided in the prompt given by the user.
+
+6. What is the subject of the article "Start-up is not a cash-burning stage"?
+
+The article discusses the common misconception that start-ups should prioritize rapid growth and may require heavy investments, when in fact there are ways to create sustainable growth without burning through cash.
+
+7. What is the headline of the article about Sri Lanka's President meeting with Paris Club?
+
+The headline is "Sri Lanka’s President to meet Paris Club next week".
+
+8. Who is appointed as the new Governor of Sabaragamuwa Province?
+
+Navin Dissanayake is appointed as the new Governor of the Sabaragamuwa Province.
+
+9. What is the subject of the article "Cabinet nod to submit status of Budget 2022 to Parliament"?
+
+The article talks about the Cabinet's approval to submit a report on the progress of the Budget 2022 to the Parliament.
+
+10. What is the headline of the article that talks about the Economic crisis and Patronage politics in Sri Lanka's North and East?
+
+The headline is "Patronage politics and the economic crisis in Sri Lanka’s North and East."
 
 
 
