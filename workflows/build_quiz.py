@@ -18,7 +18,7 @@ CMD_MESSAGE = dict(
 You have been given several news article titles by the user.
 
 To test the users knowledge about the most important articles,
-PRINT 10 questions and their answers.
+PRINT 10 questions and their answers as MARKDOWN.
 ''',
 )
 

@@ -2,6 +2,8 @@ import os
 import webbrowser
 
 from utils import File, Time, TimeFormat
+from workflows.build_quiz import build_quiz
+from workflows.build_wordcloud import build_wordcloud
 
 
 def get_time_str():
@@ -30,8 +32,8 @@ def main():
 
 
 if __name__ == '__main__':
-    # build_wordcloud()
-    # build_quiz()
+    build_wordcloud()
+    build_quiz()
     main()
     os.system('git add .')
     os.system('git commit -m "updated readme"')
