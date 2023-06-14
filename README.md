@@ -1,51 +1,41 @@
 
 # Sri Lankan News
 
-*Various Insights and Visualizations as of June 14, 2023 - 11:03AM*
+*Various Insights and Visualizations as of June 14, 2023 - 11:06AM*
 
 ![wordcloud](media/wordcloud/wordcloud.latest.png)
 
 ## News Quiz
 
-1. What was the outcome of the South Indian State of Karnataka Elections?
-  
-  The Congress Party won 137 out of 224 seats while the ruling Bharatiya Janata Party got only 63 seats and Janata Dal(S)-20 and Rest -04.
+1. What was the outcome of the Karnataka state elections in India in recent news?
+- India’s Congress Party wins 137 out of 224 seats in South Indian State of Karnataka Elections while Ruling Bharatiya Janata Party gets only 63 seats. 
 
-2. Who is "Prophet" Jerome Fernando and why was a travel ban issued on him?
+2. What did Canadian Prime Minister Justin Trudeau encourage people to do in relation to Sri Lanka?
+- Canadian Prime Minister Justin Trudeau encouraged everyone to learn more about the impact of the armed conflict in Sri Lanka and express solidarity to all those who suffered or lost loved ones.
 
-  "Prophet" Jerome Fernando is a religious figure. A travel ban was issued on him because he was reportedly planning to travel to Malaysia from Singapore.
+3. What did Sri Lanka's President Ranil Wickremesinghe say in a special statement to the nation?
+- "We will not allow anyone to drag our motherland back to where we were a year ago. Today, some individuals seem to have forgotten the hardships endured by Sri Lankans during that time.”
 
-3. What was the motivation behind the Sri Lankan War?
+4. What did Former President Mahinda Rajapaksa deny in recent news?
+- Former President Mahinda Rajapaksa denies having links with Pastor Jerome Fernando or Zimbabwe’s Uebert Angel; says he met both only for a prayer meeting at their request when serving as PM and Religious Affairs Minister.
 
-  The Sri Lankan War was motivated by a combination of political opportunism and religio-racial extremism.
+5. What did the Centre for Policy Alternatives express concern over in a recent news article?
+- The Centre for Policy Alternatives expressed deep concern over the recent arrest of comedian Natasha Edirisooriya under ICCPR act; stating that it is the latest move to stifle freedom of speech in the guise of protecting religious harmony.
 
-4. Who is Jayantha Dhanapala and what is he known for?
+6. Who was arrested in Colombo and released on bail after being granted a surety of Rs. 500,000?
+- Jaffna District MP Gajendrakumar Ponnambalam was arrested in Colombo by Maruthankerni and Jeyapuram Police and released after being granted Rs. 500,000 surety bail by Kilinochchi Magistrates Court.
 
-  Jayantha Dhanapala is a diplomat and advocate for causes, known for being a mentor.
+7. What are the aspirations of the historically marginalized "Malaiyaha" (Hill Country) Tamils in Sri Lanka?
+- The "Malaiyaha" Tamils aspire to a non-territorial community council where they can seek greater recognition, political rights, and improved living and working conditions.
 
-5. What is the concern expressed by the Centre for Policy Alternatives?
+8. Who announced their decision to resign from all posts in the SJB and rejoin the United National Party (UNP)?
+- Samagi Jana Balawegaya Vice President and former Anuradhapura MP P. Harrison announced his decision to resign from all posts in the SJB and rejoin the United National Party while extending his unconditional support to President Ranil Wickremesinghe.
 
-  The Centre for Policy Alternatives expressed deep concern over the recent arrest of comedian Natasha Edirisooriya under ICCPR act and referred to it as the latest move to stifle freedom of speech in the guise of protecting religious harmony.
+9. According to Mano Ganesan, what does he question regarding the treatment of some religious figures?
+- Mano Ganesan questions the impunity given to Buddhist clergy and activists who engage in hate speech against other faiths. He tweeted that if Pastor Jerome and Natasha Edirisooriya are breaking the law with their speech, then the same law should be applied to monks who have sprouted hate speech against fellow religions.
 
-6. Who is Chandrika Kumaratunga and what did she ask?
-
-  Chandrika Kumaratunga is a former President. She asked why no action has been taken so far against Galagoda Aththe Gnanasara Thero for insulting other religions.
-
-7. What is the new trend of Buddhist monks in Sri Lanka and why is it unacceptable?
-
-  The new trend is Buddhist monks bulldozing their way into lands in the North and East, claiming they were historically places of Buddhist worship. It is unacceptable because it is seen as a land-grabbing tactic that could lead to further ethnic and religious divisions.
-
-8. Who is Uduppiddy Singham "Em" Sivasithamparam and what was his cause?
-
-  Uduppiddi Singham "Em" Sivasithamparam was a champion of Tamils' rights.
-
-9. What is the proposal by President Ranil Wickremesinghe?
-
-  President Ranil Wickremesinghe proposed to draft a new bill titled "Elections (Special Provisions) Act" that would amend several existing electoral acts.
-
-10. What did the Director General of Archaeology do to warrant reprimand from the President of Sri Lanka?
-
-  The Director General of Archaeology, Prof Anura Manatunga, was reprimanded by President Ranil Wickremesinghe for not following Cabinet policy by refraining from seizing lands belonging to the public, leading to his resignation.
+10. Who was Chandrika Kumaratunga talking about, and what did she ask?
+- Chandrika Kumaratunga asked why no action has been taken so far against Galagoda Aththe Gnanasara Thero for insulting other religions; stating that his words were more vicious than Comedian Natasha Edirisooriya.
 
 
 
