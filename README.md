@@ -7,25 +7,35 @@
 
 ## News Quiz
 
-1. What did the US State Department do in relation to North Western Province Governor Wasantha Karannagoda?
-- The US State Department designated him due to his alleged involvement in a gross violation of human rights.
+1. Who won the most seats in the South Indian state of Karnataka elections? 
+Ans: Congress Party 
 
-2. Who appointed an external committee to investigate reports about alleged sexual harassment faced by a former ITN news anchor?
-- Independent Television Network Chairman Sudarshana Gunawardana.
+2. What is the name of the hill community in Sri Lanka seeking greater recognition and political rights?
+Ans: Malaiyaha (Hill country) Tamils 
 
-3. Who won the Karnataka state elections in India in a landslide victory?
-- The Congress Party won with 137 out of 224 seats, while the ruling Bharatiya Janata Party got only 63 seats.
+3. Who was arrested for their comedic performance in Sri Lanka?
+Ans: Natasha Edirisooriya 
 
-4. What did the Sri Lankan Supreme Court rule in relation to a Private Members Bill on homosexuality?
-- The court ruled that it is "not inconsistent with the Constitution," clearing the way for a parliamentary debate and vote.
+4. What was the reason behind the Burning of the Jaffna Public Library in 1981?
+Ans: Deliberate act committed by a group of policemen 
 
-5. Why did Samagi Jana Balawegaya Vice President and former Anuradhapura MP P. Harrison resign from all posts in the SJB and rejoin the United National Party?
-- He gave his unconditional support to President Ranil Wickremesinghe.
+5. Which former Indian Prime Minister was killed on May 21, 1991?
+Ans: Rajiv Gandhi 
 
-6. What did the Centre for Policy Alternatives express in relation to the recent arrest of comedian Natasha Edirisooriya?
-- Deep concern over the move to stifle freedom of speech in the guise of protecting religious harmony.
+6. What is the proposal that the “Hill Country Tamils” aspire to establish?
+Ans: Non-territorial Community Council 
 
-7. Who has been recommended by a former High Court Judge to face charges, including attempted
+7. Who does the Tamil National Alliance break up with, challenging ITAK?
+Ans: TELO and PLOTE 
+
+8. What does Chandrika Kumaratunga ask about not taking action?
+Ans: Against Gnanasara Thero for insulting other religions 
+
+9. Who conducted a probe into the Anuradhapura jail gunpoint threats?
+Ans: High Court Judge Kusala Sarojini Weerawardena 
+
+10. Who resigned as Director General of Archaeology Department after being reprimanded by President Ranil Wickremesinghe?
+Ans: Prof. Anura Manatunga.
 
 
 

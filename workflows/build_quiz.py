@@ -10,7 +10,7 @@ WIDTH = 1_600
 HEIGHT = int(WIDTH * 9 / 16)
 F_FIG = 100
 FIG_WIDTH, FIG_HEIGHT = WIDTH // F_FIG, HEIGHT // F_FIG
-MAX_ARTICLES = 80
+MAX_ARTICLES = 50
 
 CMD_MESSAGE = dict(
     role="system",
@@ -26,7 +26,6 @@ log = Log('build_wordcloud')
 
 def get_content():
     english_articles = NewsArticleLibrary().summary_en
-    len(english_articles)
     i_start = 0
     latest_english_articles = list(
         reversed(english_articles[i_start: i_start + MAX_ARTICLES])
