@@ -1,51 +1,51 @@
 
 # Sri Lankan News
 
-*Various Insights and Visualizations as of June 14, 2023 - 11:00AM*
+*Various Insights and Visualizations as of June 14, 2023 - 11:03AM*
 
 ![wordcloud](media/wordcloud/wordcloud.latest.png)
 
 ## News Quiz
 
-1. What is the stance of the Sri Lankan government towards hate speech among religious leaders and activists? 
+1. What was the outcome of the South Indian State of Karnataka Elections?
+  
+  The Congress Party won 137 out of 224 seats while the ruling Bharatiya Janata Party got only 63 seats and Janata Dal(S)-20 and Rest -04.
 
-Answer: The government is being questioned for giving impunity to Buddhist clergy and activists who engage in hate speech against other religions. Political figures, such as TPA leader Mano Ganeshan, argue that the government should apply the same laws that have been used to arrest individuals for hate speech, including comedians and pastors, to religious leaders who spout similar rhetoric.
+2. Who is "Prophet" Jerome Fernando and why was a travel ban issued on him?
 
-2. When was the burning of the Jaffna Public Library and by whom?
+  "Prophet" Jerome Fernando is a religious figure. A travel ban was issued on him because he was reportedly planning to travel to Malaysia from Singapore.
 
-Answer: The Jaffna Public Library in Sri Lanka was burned on June 1st, 1981 in a heinous act that was committed deliberately by a group of policemen.
+3. What was the motivation behind the Sri Lankan War?
 
-3. Who did the Tamil National Alliance break up with, recently?
+  The Sri Lankan War was motivated by a combination of political opportunism and religio-racial extremism.
 
-Answer: The Tamil National Alliance broke up with TELO and PLOTE, challenging ITAK in the process.
+4. Who is Jayantha Dhanapala and what is he known for?
 
-4. Who was Uduppiddy Singham and what did he stand for?
+  Jayantha Dhanapala is a diplomat and advocate for causes, known for being a mentor.
 
-Answer: Uduppiddy Singham, also known as "Em" Sivasithamparam, championed the rights of Tamils in Sri Lanka.
+5. What is the concern expressed by the Centre for Policy Alternatives?
 
-5. What are some concerns raised by the Centre for Policy Alternatives regarding recent events in Sri Lanka?
+  The Centre for Policy Alternatives expressed deep concern over the recent arrest of comedian Natasha Edirisooriya under ICCPR act and referred to it as the latest move to stifle freedom of speech in the guise of protecting religious harmony.
 
-Answer: The Centre for Policy Alternatives has expressed deep concern over the recent arrest of comedian Natasha Edirisooriya under the ICCPR act, likening it to a move to stifle freedom of speech in the guise of protecting religious harmony.
+6. Who is Chandrika Kumaratunga and what did she ask?
 
-6. What was the ruling political party and its opposition in the South Indian state of Karnataka's 2018 elections?
+  Chandrika Kumaratunga is a former President. She asked why no action has been taken so far against Galagoda Aththe Gnanasara Thero for insulting other religions.
 
-Answer: In the South Indian state of Karnataka's 2018 elections, the Indian National Congress won 137 out of 224 seats, while the ruling Bharatiya Janata Party received only 63 seats. Janata Dal(S) claimed 20 seats, and the remaining seats were shared among four other parties.
+7. What is the new trend of Buddhist monks in Sri Lanka and why is it unacceptable?
 
-7. Who was the LTTE military commander that led an incredible feat in Ithaavil?
+  The new trend is Buddhist monks bulldozing their way into lands in the North and East, claiming they were historically places of Buddhist worship. It is unacceptable because it is seen as a land-grabbing tactic that could lead to further ethnic and religious divisions.
 
-Answer: "Brigadier" Balraj was a legendary LTTE military commander who was credited with leading an incredible feat in Ithaavil.
+8. Who is Uduppiddy Singham "Em" Sivasithamparam and what was his cause?
 
-8. Who is the Canadian Prime Minister and what message did he have for the people of Sri Lanka?
+  Uduppiddi Singham "Em" Sivasithamparam was a champion of Tamils' rights.
 
-Answer: The Canadian Prime Minister is Justin Trudeau. He encouraged everyone to learn more about the impact of the armed conflict in Sri Lanka and express solidarity to all those who suffered or lost loved ones.
+9. What is the proposal by President Ranil Wickremesinghe?
 
-9. Who was the Sri Lankan diplomat, advocate, and mentor that passed away recently?
+  President Ranil Wickremesinghe proposed to draft a new bill titled "Elections (Special Provisions) Act" that would amend several existing electoral acts.
 
-Answer: Jayantha Dhanapala was a Sri Lankan diplomat, advocate of causes, and mentor who recently passed away.
+10. What did the Director General of Archaeology do to warrant reprimand from the President of Sri Lanka?
 
-10. What recent move by the Sri Lankan government is being seen as a ploy for the government to control the public mind?
-
-Answer: The proposal to establish a Broadcasting Regulatory Commission is being viewed as yet another ploy for the Sri Lankan government to control the 'public mind' in economically hard times ahead.
+  The Director General of Archaeology, Prof Anura Manatunga, was reprimanded by President Ranil Wickremesinghe for not following Cabinet policy by refraining from seizing lands belonging to the public, leading to his resignation.
 
 
 
